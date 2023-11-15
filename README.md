@@ -1,2 +1,2 @@
-# Informations
-store my iinformations
+# 说明
+本仓库用于存放个人信息集，包括但不限于、笔记、感想、记录等。
