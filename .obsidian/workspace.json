@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d4227118a00a854e",
+        "id": "a6a8ae7eb851ed91",
         "type": "tabs",
         "children": [
           {
-            "id": "ae056305b741a05c",
+            "id": "21e0acc7e695b19c",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "读书笔记/MySQL必知必会/MySQL必知必会.md",
+                "file": "项目记录/MyDB/MyDB.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -88,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书笔记/MySQL必知必会/MySQL必知必会.md",
+                "file": "项目记录/MyDB/MyDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "读书笔记/MySQL必知必会/MySQL必知必会.md",
+                "file": "项目记录/MyDB/MyDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书笔记/MySQL必知必会/MySQL必知必会.md"
+                "file": "项目记录/MyDB/MyDB.md"
               }
             }
           }
@@ -150,11 +148,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ae056305b741a05c",
+  "active": "21e0acc7e695b19c",
   "lastOpenFiles": [
+    "项目记录/MyDB/MyDB.md",
+    "项目记录/MyDB",
+    "项目记录",
+    "读书笔记/MySQL必知必会/MySQL必知必会.md",
     "读书笔记/MySQL必知必会/图片/between and.png",
     "读书笔记/MySQL必知必会/图片/not eq.png",
-    "读书笔记/MySQL必知必会/MySQL必知必会.md",
     "读书笔记/MySQL必知必会/图片/let get.png",
     "读书笔记/MySQL必知必会/图片/eq lt gt.png",
     "读书笔记/MySQL必知必会/图片/highest and lowest.png",
@@ -163,7 +164,6 @@
     "读书笔记/MySQL必知必会/图片/unordered.png",
     "读书笔记/MySQL必知必会/图片/show columns.png",
     "Pasted image 20231115213004.png",
-    "读书笔记/MySQL必知必会/图片/show databases.png",
     "README.md",
     "读书笔记/MySQL必知必会/图片",
     "读书笔记/MySQL必知必会",
